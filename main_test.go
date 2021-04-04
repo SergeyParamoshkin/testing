@@ -17,6 +17,7 @@ func TestGetRandom(t *testing.T) {
 		{3, 0},
 		{1, 0},
 		{2, 1},
+		{1, 20},
 	}
 
 	for _, tt := range testSet {
