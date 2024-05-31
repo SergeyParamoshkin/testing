@@ -11,4 +11,5 @@ func GetRandomNumber(n int64) int64 {
 
 func main() {
 	fmt.Println("run testing")
+	fmt.Println("run testing")
 }
